@@ -2,8 +2,8 @@
 layout: default
 work: true
 main: true
-title: "Study"
-description: 공부에 도움되거나 개발에 참고한 사이트
+title: "Blog"
+description: 업로드 예정
 main: true
 project-header: true
 ---
@@ -11,7 +11,7 @@ project-header: true
 <div class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
-{% if page.studys == true %}
+{% if page.blogs == true %}
 
      {% include post-list.html %}
 

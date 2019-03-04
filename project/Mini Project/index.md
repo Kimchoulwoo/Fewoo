@@ -6,7 +6,6 @@ type: "개인프로젝트"
 projects: true
 text: true
 portfolio: true
-post-header: true
 date: "01 Mar 2019"
 order: 1
 ---

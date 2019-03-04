@@ -2,13 +2,12 @@
 layout: post
 title:  "풋살장 예약 및 랜덤매칭 웹프로젝트"
 author: "Choulwoo"
-type: "팀프로젝트"
+type: "프로젝트"
 projects: true
 text: true
 portfolio: true
-post-header: true
 date: "01 Mar 2019"
-order: 3
+order: 2
 ---
 
 ## 소스

@@ -2,7 +2,7 @@
 title:          Fewoo
 description:    "My blog"
 url:            "https://kimchoulwoo.github.io/Fewoo/"
-
+baseurl: ""
 # Author
 author:
   name:         Choulwoo Kim

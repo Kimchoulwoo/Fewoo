@@ -3,10 +3,9 @@ layout: post
 author: "Choulwoo"
 title:  "GitHub"
 type: "Site"
-projects: true
+studys: true
 text: true
 portfolio: true
-post-header: true
 date: "01 Mar 2019"
 order: 1
 ---
