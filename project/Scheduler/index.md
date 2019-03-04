@@ -2,6 +2,13 @@
 layout: post
 title:  "스케줄 관리용 웹프로젝트"
 author: "Choulwoo"
+type: "개인프로젝트"
+projects: true
+text: true
+portfolio: true
+post-header: true
+date: "01 Mar 2019"
+order: 3
 ---
 
 ## 소스
@@ -19,7 +26,7 @@ author: "Choulwoo"
 ## 프로젝트 설명
 - 목적 : Fullcalender.js를 사용해 구글 캘린더와 유사한 페이지 개발
 - 인원 : 1명
-- 기간 : 3주
+- 기간 : 2018.12 ~ 2019.01 (3주)
 - 기능 : 일정관리(등록,수정,삭제), 월/주/일별 리스트, 일정공유, 로그인, 회원가입
 
 

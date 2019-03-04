@@ -5,7 +5,34 @@
 
   <body>
 
-    {% include navigation.html %}
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <h3 class="nav-title">{{ site.title }}</h3>
+        </a>
+        <ul>
+            <li class="transition">
+                <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Projects</a>
+            </li>
+            <li class="transition">
+                <a href="{{ '/study' | prepend: site.baseurl }}" {% if current[1] == "study" %} class="active"{% endif %} >Study</a>
+            </li>
+            <li class="transition">
+                <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
+            </li>
+            <li class="transition">
+                <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>
+            </li>
+        </ul>
+      </div>
+    </nav>
+
+        {% if page.post-header == true %}
+            {% include post-header.html %}
+        {% endif %}
+        {% if page.project-header == true %}
+            {% include project-header.html %}
+        {% endif %}
 
     <main>
       {{ content }}

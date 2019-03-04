@@ -1,3 +1,40 @@
+//post header
+
+.post-header {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 360px;
+    background-color: #D8E0E7;
+}
+
+//project header
+
+.project-header {
+        font-family: 'Source Sans Pro', sans-serif;
+        color: #333e4c;
+
+    .header-project-title {
+        font-weight: 700;
+        font-size: 50px;
+
+        @media (max-width: 670px) {
+            font-size: 32px;
+        }
+    }
+
+    .header-project-des {
+        padding-top: 6px;
+        font-size: 20px;
+        color: #90949a;
+
+        @media (max-width: 670px) {
+            font-size: 17px;
+        }
+    }
+}
+
 .post {
   padding: 3rem 0;
 
@@ -60,13 +97,13 @@
     padding: 0;
     margin: 0;
   }
-  
+
   h2{
   	margin-bottom:0.3rem;
   }
-  
+
   ul{
   	margin-top:0;
   }
-  
+
 }

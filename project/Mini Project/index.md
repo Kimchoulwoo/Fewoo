@@ -2,6 +2,13 @@
 layout: post
 title:  "JSP 기반 미니 웹프로젝트"
 author: "Choulwoo"
+type: "개인프로젝트"
+projects: true
+text: true
+portfolio: true
+post-header: true
+date: "01 Mar 2019"
+order: 1
 ---
 
 ## 소스
@@ -18,7 +25,7 @@ author: "Choulwoo"
 ## 프로젝트 설명
 - 목적 : MVC 패턴의 웹 페이지 개발 이해
 - 인원 : 1명
-- 기간 : 5주
+- 기간 : 2018.01 ~ 2018.02(5주)
 - 기능 : 게시판(답변형/파일업로드), 로그인, 회원가입, 메일보내기, 관리자페이지
 
 ## 프로젝트 상세

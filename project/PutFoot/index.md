@@ -2,6 +2,13 @@
 layout: post
 title:  "풋살장 예약 및 랜덤매칭 웹프로젝트"
 author: "Choulwoo"
+type: "팀프로젝트"
+projects: true
+text: true
+portfolio: true
+post-header: true
+date: "01 Mar 2019"
+order: 3
 ---
 
 ## 소스
@@ -18,7 +25,7 @@ author: "Choulwoo"
 ## 프로젝트 설명
 - 목적 : Spring Framework 기반 웹페이지 개발
 - 인원 : 5명
-- 기간 : 5주
+- 기간 : 2018.02 ~ 2018.03(5명)
 - 기능 : 게시판(답변형/파일업로드), 로그인, 회원가입, 메일보내기, 관리자페이지
 - 담당업무 : 클럽페이지(생성,가입,탈퇴,리스트) / 팀페이지(리스트) / 랜덤 매칭 / 관리자페이지(로그인, 게시글관리, 회원관리)
 
