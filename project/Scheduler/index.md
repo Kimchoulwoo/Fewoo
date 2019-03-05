@@ -14,7 +14,7 @@ order: 5
 
 
 ## 개발환경
-- 언어 : HTML/CSS, JavaScript, J-Query, BootStrap, JAVA, JSTL, Spring Framework
+- 언어 : JAVA, Spring Framework, HTML/CSS, JavaScript, J-Query, BootStrap, JSTL,
 - DBMS : MySQL 5.7
 - 운영체제 :  Mac Os, Window 10
 - 개발도구 : Tomcat 8.5, Eclipse, Git, MySQLWorkBench

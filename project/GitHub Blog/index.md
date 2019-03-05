@@ -22,7 +22,7 @@ order: 6
 ## 개발환경
 - 언어 : HTML/CSS, JavaScript, Markdown
 - 운영체제 :  Mac Os
-- 개발도구 : TextWrangler, GitHub
+- 개발도구 : Atom, TextWrangler, GitHub
 
 ## 프로젝트 설명
 - 목적 : 포트폴리오 프로젝트 저장 및 개인 블로그
