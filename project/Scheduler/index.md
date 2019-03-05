@@ -17,7 +17,7 @@ order: 5
 - 언어 : JAVA, Spring Framework, HTML/CSS, JavaScript, J-Query, BootStrap, JSTL,
 - DBMS : MySQL 5.7
 - 운영체제 :  Mac Os, Window 10
-- 개발도구 : Tomcat 8.5, Eclipse, Git, MySQLWorkBench
+- 개발도구 : Eclipse, Git, MySQLWorkBench
 - 서버 : Tomcat 8.5
 
 
