@@ -89,4 +89,10 @@ footer {
     color: $default-color;
     font-size: .8rem;
   }
+  a  {
+    svg {
+      fill: #8898aa;
+      width: 20px;
+    }
+  }
 }

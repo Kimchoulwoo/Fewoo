@@ -5,9 +5,8 @@ author: "Choulwoo"
 type: "개인프로젝트"
 projects: true
 text: true
-portfolio: true
 date: "01 Mar 2019"
-order: 3
+order: 5
 ---
 
 ## 소스
