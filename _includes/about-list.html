@@ -1,11 +1,15 @@
 <li class="workplace transition">
     {% for first in site.data.about.first-place %}
-    <p class="workplace-name">
+    <p class="workplace-title">
         {{ first.Title }}
     </p>
-    <p>
+    <p class="work-content">
         {{ first.content1 }}
+    </p>
+    <p class="work-content">
         {{ first.content2 }}
+    </p>
+    <p class="work-content">
         {{ first.content3 }}
     </p>
     {% endfor %}
@@ -13,10 +17,10 @@
 
 <li class="workplace transition">
     {% for second in site.data.about.second-place %}
-    <p class="workplace-name">
+    <p class="workplace-title">
         {{ second.Title }}
     </p>
-    <p>
+    <p class="work-content">
         {{ second.content1 }}
     </p>
     {% endfor %}

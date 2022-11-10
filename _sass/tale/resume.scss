@@ -47,6 +47,19 @@ div.resume-info {
             }
 
         }
+        
+        .workplace-title {
+            font-family: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            float: left;
+
+            @media (max-width: 670px) {
+                float: none;
+                width: 100%;
+            }
+
+        }
 
         .work-info {
             display: inline-block;
@@ -58,6 +71,18 @@ div.resume-info {
                 font-weight: 400;
             }
         }
+        
+        .work-content {
+            display: inline-block;
+
+            p.work-sub-info {
+                color: #8898aa;
+                font-size: 16px;
+                font-family: 'Source Sans Pro', sans-serif;
+                font-weight: 400;
+            }
+        }
+       
 
         svg {
             width: 24px;
