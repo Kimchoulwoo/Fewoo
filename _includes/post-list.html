@@ -5,12 +5,11 @@
             Coming Soon
         </span>
         {% endif %}
-        <p class="catalogue-type">
-            {{ page.type }}
-        </p>
         <div>
           <h3 class="catalogue-title">{{ page.title }}</h3>
-          <time datetime="{{ page.date }}" class="catalogue-time">{{ page.date | date: "%B %d, %Y" }}</time>
+          <h4 class="catalogue-title">{{ page.role }}</h4>
+          <h4 class="catalogue-title">{{ page.title }}</h4>
+          <time datetime="{{ page.date }}" class="catalogue-time">{{ page.date }}</time>
           <div class="catalogue-line"></div>
         </div>
     </a>
