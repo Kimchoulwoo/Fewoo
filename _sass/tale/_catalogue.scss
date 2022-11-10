@@ -45,6 +45,7 @@
     &:focus .catalogue-line {
       width: 5rem;
     }
+    &:hover .catalogue-projectLine,
     &:focus .catalogue-projectLine {
       width: 11rem;
     }
@@ -108,6 +109,12 @@
   
 
   &-line {
+    @include transition(all .3s ease-out);
+    border-top: .2rem solid $default-shade;
+    display: block;
+    width: 11rem;
+  }
+  &-projectLine{
     @include transition(all .3s ease-out);
     border-top: .2rem solid $default-shade;
     display: block;
