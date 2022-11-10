@@ -387,8 +387,9 @@ video {
             @media (max-width: 670px) {
                 float: none;
                 width: 100%;
-            }
-    .content {
+            } 
+    } 
+	.section .item .info-disc .content {
             display : inline-block;
             width : 100%;
             margin : 7px 0;
@@ -399,10 +400,7 @@ video {
                 font-family: 'Source Sans Pro', sans-serif;
                 font-weight: 400;
             }
-        }
-    
-    } 
-    
+    }
     
   .section .item:hover {
     box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.05);
