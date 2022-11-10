@@ -13,7 +13,7 @@ project-header: true
 {% for page in sorted %}
 {% if page.studys == true %}
 
-     {% include post-list.html %}
+     {% include study-list.html %}
 
 {% endif %}
 {% endfor %}
