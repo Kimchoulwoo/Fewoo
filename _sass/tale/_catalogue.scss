@@ -1,5 +1,5 @@
 .catalogue {
-	p{font-weight: 700;}
+	p{}
   &-item {
     border-bottom: 1px solid $grey-2;
     color: $default-color;
@@ -24,7 +24,6 @@
 	  //border-radius: 10px;
 	  border-bottom: 1px solid rgba(0,0,0,0.07);
 	  color: #666;
-	  font-weight: 200;
 	  line-height: 20px;
 	  font-size: 14px;
 	  //display: flex;
@@ -72,10 +71,10 @@
   &-projectTitle {
     font-size: 16px; 
     color: #666;    
-    
+    font-weight: 700 !important;
     float: left;
     width : 100%;
-    margin : 10px 0;
+    margin : 10px 0 !important;
 
     @media (max-width: 670px) {
             float: none;
@@ -86,7 +85,7 @@
     &-content {
             display : inline-block;
             width : 100%;
-            margin : 7px 0;
+            margin : 7px 0 !important;
             color: #666;
             font-size: 14px; 
 
