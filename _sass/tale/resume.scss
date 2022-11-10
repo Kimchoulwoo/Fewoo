@@ -129,6 +129,11 @@ section.skill {
     }
     padding-bottom: 72px;
 
+	ul{
+		border-top: 1px solid rgba(0,0,0,0.07);
+    	padding-top: 20px;
+	}
+
     li.skill_name {
         display: inline-block;
         font-family: 'Source Sans Pro', sans-serif;
