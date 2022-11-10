@@ -59,7 +59,7 @@
     sup {
         a.footnote {
             background: none;
-            color: #8565fc;
+            color: #555;
         }
     }
     img {
@@ -76,8 +76,8 @@
     }
 
     a:hover {
-        color: #8565fc;
-        text-decoration-color: #8565fc;
+        color: #555;
+        text-decoration-color: #555;
     }
 
     h1 {
@@ -202,7 +202,7 @@
         h1 {
             font-family: 'Source Sans Pro', sans-serif;
             letter-spacing: 0.01em;
-            color: #8565fc;
+            color: #555;
             padding-bottom: 7px;
             font-size: 25px;
 
@@ -217,12 +217,12 @@
 sup {
         a.footnote {
             background: none;
-            color: #8565fc;
+            color: #555;
         }
     }
 
 .post-type {
-    color: #8565fc;
+    color: #555;
     font-size: 18px;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
@@ -292,7 +292,7 @@ sup {
             margin: 0;
             a.reversefootnote {
                 background: none;
-                color: #8565fc;
+                color: #555;
             }
             a:hover {
                 opacity: .6;
@@ -342,7 +342,7 @@ sup {
     }
 
     .info-medium {
-        color: #rgba(51, 62, 76, .8);
+        
         font-size: 17px;
     }
 
@@ -377,7 +377,33 @@ video {
   .section .item .arrow {
     padding-right: 10px; }
   .section .item .info-disc {
-    font-size: 16px; }
+    font-size: 16px; 
+    
+    font-weight: 700;
+            float: left;
+            width : 100%;
+            margin : 10px 0;
+
+            @media (max-width: 670px) {
+                float: none;
+                width: 100%;
+            }
+    .content {
+            display : inline-block;
+            width : 100%;
+            margin : 7px 0;
+
+            p.work-sub-info {
+                color: #8898aa;
+                font-size: 16px;
+                font-family: 'Source Sans Pro', sans-serif;
+                font-weight: 400;
+            }
+        }
+    
+    } 
+    
+    
   .section .item:hover {
     box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.05);
     transform: translateY(-4px);
