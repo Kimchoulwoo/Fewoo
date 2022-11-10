@@ -57,17 +57,16 @@
   
   &-projectTitle {
     font-size: 16px; 
-    color: #666;
-    
+    color: #666;    
     font-weight: 700;
-            float: left;
-            width : 100%;
-            margin : 10px 0;
+    float: left;
+    width : 100%;
+    margin : 10px 0;
 
-            @media (max-width: 670px) {
-                float: none;
-                width: 100%;
-            } 
+    @media (max-width: 670px) {
+            float: none;
+            width: 100%;
+        } 
     } 
 
     &-content {
