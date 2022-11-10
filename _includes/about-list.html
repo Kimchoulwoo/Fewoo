@@ -1,0 +1,23 @@
+<li class="workplace transition">
+    {% for first in site.data.about.first-place %}
+    <p class="workplace-name">
+        {{ first.Title }}
+    </p>
+    <p>
+        {{ first.content1 }}
+        {{ first.content2 }}
+        {{ first.content3 }}
+    </p>
+    {% endfor %}
+</li>
+
+<li class="workplace transition">
+    {% for second in site.data.about.second-place %}
+    <p class="workplace-name">
+        {{ second.Title }}
+    </p>
+    <p>
+        {{ second.content1 }}
+    </p>
+    {% endfor %}
+</li>
