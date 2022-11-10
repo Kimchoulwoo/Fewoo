@@ -1,24 +1,23 @@
 first-place:
 - name: 우체국 차세대 종합금융시스템 구축 프로젝트
-  role: 멀티미디어공학과
+  role: 화면 설계 및 개발, 백엔드 개발
+  use : JAVA, JSP, Websquare, Nexcore Framework, Oracle
   date: 2021.11~2022.08(10개월)
 
 second-place:
-  - name: 이솔루션
-    role: 인턴
-    date: 2016.12 - 2017.02
+  - name: 서울보증보험 이미지시스템 유지보수
+    role: 배치프로그램 개발
+    use : JAVA, JSP, JavaScript, Oracle
+    date: 2021.10~2021.11(2개월)
 
 third-place:
-- name: 솔데스크
-  role: 사물인터넷기반 하이브리드 웹 앱 개발자과정
-  date: 2017.09 - 2018.03
+- name: 중앙대학교 전자정보연구센터 프로젝트
+  role: 프론트 개발, 백엔드 개발
+  use : PHP, JAVASCRIPT, MSSQL
+  date: 2021.07~2021.10(4개월)
 
 fourth-place:
-- name: KG ICT
-  role: 인턴
-  date: 2018.05 - 2018.07
-  
-fifth-place:
-- name: 트리플에임즈
-  role: 사원
-  date: 2019.03 - 2022.09
+- name: 서울보증보험 스마트워크시스템 프로젝트
+  role: 이미지 등록프로그램 개발
+  use : C#, JAVA, Oracle
+  date: 2020.09~2021.07(11개월)

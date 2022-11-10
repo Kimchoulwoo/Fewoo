@@ -7,6 +7,9 @@
         <p>
             {{ first.role }}
         </p>
+        <p>
+            {{ first.use }}
+        </p>
         <p class="work-sub-info">
             {{ first.date }}
         </p>
@@ -22,6 +25,9 @@
     <div class="work-info">
         <p>
             {{ second.role }}
+        </p>
+        <p>
+            {{ second.use }}
         </p>
         <p class="work-sub-info">
             {{ second.date }}
@@ -39,6 +45,9 @@
         <p>
             {{ third.role }}
         </p>
+        <p>
+            {{ third.use }}
+        </p>
         <p class="work-sub-info">
             {{ third.date }}
         </p>
@@ -55,24 +64,11 @@
         <p>
             {{ fourth.role }}
         </p>
+        <p>
+            {{ fourth.use }}
+        </p>
         <p class="work-sub-info">
             {{ fourth.date }}
-        </p>
-    </div>
-    {% endfor %}
-</li>
-
-<li class="workplace transition">
-    {% for fifth in site.data.experience.fifth-place %}
-    <p class="workplace-name">
-        {{ fifth.name }}
-    </p>
-    <div class="work-info">
-        <p>
-            {{ fifth.role }}
-        </p>
-        <p class="work-sub-info">
-            {{ fifth.date }}
         </p>
     </div>
     {% endfor %}

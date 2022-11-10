@@ -54,6 +54,7 @@ div.resume-info {
             font-weight: 700;
             float: left;
             width : 100%;
+            margin : 10px 0;
 
             @media (max-width: 670px) {
                 float: none;
@@ -64,6 +65,7 @@ div.resume-info {
 
         .work-info {
             display: inline-block;
+            p {margin : 0px;}
 
             p.work-sub-info {
                 color: #8898aa;
