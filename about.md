@@ -3,12 +3,8 @@ layout: post
 title: "About Me"
 permalink: /about/
 ---
-<div class="intro-animation">
-<section class="explanation">
-    <div class="intro-link">
-                하루하루 성장중인 주니어 개발자, 김철우입니다 🏃
-    </div>
-</section>
+<div class="about">
+하루하루 성장중인 주니어 개발자, 김철우입니다 🏃
 </div>
 ▪ 어떤일이든 책임감을 갖고 끝까지 도전해봅니다.<br>
 ▪ 어떤 경험에서든 배움을 얻고 실천하려 합니다.<br>
@@ -89,18 +85,6 @@ permalink: /about/
 				</p>
 				<p class="content">
 					<a href="https://github.com/Kimchoulwoo">https://github.com/Kimchoulwoo</a>
-				</p>
-			</li>
-		</ul>
-	</div>
-	<div class="item" id="6">
-		<ul>
-			<li>
-				<p class="info-disc">
-					Hobby
-				</p>
-				<p class="content">
-					운동 / 게임 / 낮잠 / 요리
 				</p>
 			</li>
 		</ul>
