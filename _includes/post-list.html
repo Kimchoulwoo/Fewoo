@@ -5,18 +5,24 @@
             Coming Soon
         </span>
         {% endif %}
-        <div>
-        	<p class="catalogue-projectTitle">
-					{{ page.title }}
-			</p>
-			<p class="catalogue-content">
-					▪ {{ page.role }}
-			</p>
-			<p class="catalogue-content">
-					▪ {{ page.stack }}
-			</p>
-        	<time datetime="{{ page.date }}" class="catalogue-time">{{ page.date }}</time>
-        	<div class="catalogue-line"></div>
-        </div>
+        <div class="catalogue-section">
+			<div class="catalogue-divItem">
+				<ul>
+					<li>
+			        	<p class="catalogue-projectTitle">
+								{{ page.title }}
+						</p>
+						<p class="catalogue-content">
+								▪ {{ page.role }}
+						</p>
+						<p class="catalogue-content">
+								▪ {{ page.stack }}
+						</p>
+			        	<time datetime="{{ page.date }}" class="catalogue-time">{{ page.date }}</time>
+			        	<div class="catalogue-line"></div>
+		        	</li>
+		        </ul>
+		    </div>
+		</div>
     </a>
 </li>

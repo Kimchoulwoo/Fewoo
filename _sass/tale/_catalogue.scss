@@ -15,6 +15,22 @@
     }
   }
   
+  &-section {
+	  padding: 10px 0px; 
+	}
+  
+  &-divItem {
+	  //border-radius: 10px;
+	  border-bottom: 1px solid rgba(0,0,0,0.07);
+	  color: #666;
+	  font-weight: 200;
+	  line-height: 20px;
+	  font-size: 14px;
+	  //display: flex;
+	  justify-content: space-between;
+	  align-items: center;
+	}
+  
   &-projectItem {
     border-bottom: 1px solid $grey-2;
     color: $default-color;
