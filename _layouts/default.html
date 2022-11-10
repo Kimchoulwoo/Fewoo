@@ -14,11 +14,13 @@
             <li class="transition">
                 <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Projects</a>
             </li>
+            {% if page.post-header == true %}
             <li class="transition">
-                <a href="{{ '/study2' | prepend: site.baseurl }}" {% if current[1] == "study" %} class="active"{% endif %} >Study</a>
+                <a href="{{ '/study' | prepend: site.baseurl }}" {% if current[1] == "study" %} class="active"{% endif %} >Study</a>
             </li>
+            {% endif %}
             <li class="transition">
-                <a href="{{ '/blog2' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
+                <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
             </li>
             <li class="transition">
                 <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>

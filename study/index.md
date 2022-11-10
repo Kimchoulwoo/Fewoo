@@ -5,7 +5,7 @@ main: true
 title: "Study"
 description: 공부에 도움되거나 개발에 참고한 사이트
 main: true
-project-header: true
+project-header: false
 ---
 
 <div class="catalogue">
