@@ -108,16 +108,11 @@
     }
   
 
-  &-line {
+  &-line,
+  &-projectLine {
     @include transition(all .3s ease-out);
     border-top: .2rem solid $default-shade;
     display: block;
-    width: 11rem;
-  }
-  &-projectLine{
-    @include transition(all .3s ease-out);
-    border-top: .2rem solid $default-shade;
-    display: block;
-    width: 11rem;
+    width: 2rem;
   }
 }
