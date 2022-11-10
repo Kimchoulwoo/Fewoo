@@ -5,7 +5,7 @@ main: true
 title: "Blog"
 description: 업로드 예정
 main: true
-project-header: true
+project-header: false
 ---
 
 <div class="catalogue">

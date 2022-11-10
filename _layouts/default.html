@@ -19,9 +19,11 @@
                 <a href="{{ '/study' | prepend: site.baseurl }}" {% if current[1] == "study" %} class="active"{% endif %} >Study</a>
             </li>
             {% endif %}
+            {% if page.post-header == true %}
             <li class="transition">
                 <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
             </li>
+            {% endif %}
             <li class="transition">
                 <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>
             </li>
