@@ -4,7 +4,7 @@ author: "Choulwoo"
 title:  "portfolio"
 type: "개인프로젝트"
 studys: true
-text: true
+text: true 
 date: "01 Mar 2019"
 order: 4
 ---

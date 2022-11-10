@@ -7,7 +7,7 @@ stack : "JAVA, JSP, Websquare, Nexcore Framework, Oracle"
 date: "2021.11~2022.08(10개월)"
 studys: true
 text: true
-order: 9
+order: 9 
 ---
 
 ## 소스
