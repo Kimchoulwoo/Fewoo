@@ -56,22 +56,32 @@
   }
   
   &-projectTitle {
-    font-size: 16px;
+    font-size: 16px; 
+    
     font-weight: 700;
-    font-family: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
-    float: left;
-    width: 100%;
-    margin: 10px 0;
-  }
+            float: left;
+            width : 100%;
+            margin : 10px 0;
+
+            @media (max-width: 670px) {
+                float: none;
+                width: 100%;
+            } 
+    } 
+
+    &-content {
+            display : inline-block;
+            width : 100%;
+            margin : 7px 0;
+
+            p.work-sub-info {
+                color: #8898aa;
+                font-size: 16px;
+                font-family: 'Source Sans Pro', sans-serif;
+                font-weight: 400;
+            }
+    }
   
-  &-projectContent {
-    line-height: 1.8;
-    margin: 0 0 10px 0;
-    word-break: break-all;
-    font-family: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
-    font-weight: 400;
-    letter-spacing: -0.009em;
-  }
 
   &-line {
     @include transition(all .3s ease-out);

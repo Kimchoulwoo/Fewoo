@@ -6,11 +6,17 @@
         </span>
         {% endif %}
         <div>
-          <h3 class="catalogue-projectTitle">{{ page.title }}</h3>
-          <h4 class="catalogue-projectContent">{{ page.role }}</h4>
-          <h4 class="catalogue-projectContent">{{ page.stack }}</h4>
-          <time datetime="{{ page.date }}" class="catalogue-projectTime">{{ page.date }}</time>
-          <div class="catalogue-line"></div>
+        	<p class="catalogue-projectTitle">
+					{{ page.title }}
+			</p>
+			<p class="catalogue-content">
+					{{ page.role }}
+			</p>
+			<p class="catalogue-content">
+					{{ page.stack }}
+			</p>
+        	<time datetime="{{ page.date }}" class="catalogue-Time">{{ page.date }}</time>
+        	<div class="catalogue-line"></div>
         </div>
     </a>
 </li>
