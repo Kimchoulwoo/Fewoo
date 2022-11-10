@@ -1,12 +1,9 @@
 ---
-layout: default
-work: true
-main: true
+layout: post
 title: "Project"
-description: 지금까지 개발한 프로젝트
-main: true
-project-header: true
 ---
+
+
 
 <div class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
