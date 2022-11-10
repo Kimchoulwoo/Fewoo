@@ -32,43 +32,63 @@ permalink: /about/
 		</ul>
 	</div>
 	<div class="item" id="2">
-		<p class="info-disc">
-			Career
-		</p>
-		<p class="content">
-		▪ 트리플에임즈(2019.02 ~ 2022.08)
-		</p>
+		<ul>
+			<li>
+				<p class="info-disc">
+					Career
+				</p>
+				<p class="content">
+				▪ 트리플에임즈(2019.02 ~ 2022.08)
+				</p>
+			</li>
+		</ul>
 	</div>
 	<div class="item" id="3">
-		<p class="info-disc">
-			Skill
-		</p>
-		<p class="content">
-		▪ Java, JavaScript, C#, PHP, jQuery, MSSQL, JSP, MySQL, Oracle, HTML
-		</p>
+		<ul>
+			<li>
+				<p class="info-disc">
+					Skill
+				</p>
+				<p class="content">
+				▪ Java, JavaScript, C#, PHP, jQuery, MSSQL, JSP, MySQL, Oracle, HTML
+				</p>
+			</li>
+		</ul>
 	</div>
 	<div class="item" id="4">
-		<p class="info-disc">
-			E-mail
-		</p>
-		<p class="content">
-			choul3416@naver.com
-		</p>
+		<ul>
+			<li>
+				<p class="info-disc">
+					E-mail
+				</p>
+				<p class="content">
+					choul3416@naver.com
+				</p>
+			</li>
+		</ul>
 	</div>
 	<div class="item" id="5">
-		<p class="info-disc">
-			Github
-		</p>
-		<p class="content">
-			<a href="https://github.com/Kimchoulwoo">https://github.com/Kimchoulwoo</a>
-		</p>
+		<ul>
+			<li>
+				<p class="info-disc">
+					Github
+				</p>
+				<p class="content">
+					<a href="https://github.com/Kimchoulwoo">https://github.com/Kimchoulwoo</a>
+				</p>
+			</li>
+		</ul>
 	</div>
 	<div class="item" id="6">
-		<p class="info-disc">
-			Hobby
-		</p>
-		<p class="content">
-			운동 / 게임 / 낮잠 / 요리
-		</p>
+		<ul>
+			<li>
+				<p class="info-disc">
+					Hobby
+				</p>
+				<p class="content">
+					운동 / 게임 / 낮잠 / 요리
+				</p>
+			</li>
+		</ul>
 	</div>
 </div>
