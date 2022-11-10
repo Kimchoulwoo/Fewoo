@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Choulwoo Kim"
-type: about
+title: "About Me"
 permalink: /about/
 ---
 <div class="intro-animation">
-<section>
-    <div>
-         하루하루 성장중인 주니어 개발자, 김철우입니다 🏃
+<section class="explanation">
+    <div class="intro-link">
+                하루하루 성장중인 주니어 개발자, 김철우입니다 🏃
     </div>
 </section>
 </div>
