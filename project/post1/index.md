@@ -5,7 +5,7 @@ title:  "중앙대학교 전자정보연구센터 프로젝트"
 role : "프론트 개발, 백엔드 개발"
 stack : "PHP, JAVASCRIPT, MSSQL"
 date: "2019.03~2019.05(3개월)"
-projects: true
+studys: true
 text: true
 order: 1
 ---

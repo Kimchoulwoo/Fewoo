@@ -3,7 +3,7 @@ layout: post
 title:  "스케줄 관리용 웹프로젝트"
 author: "Choulwoo"
 type: "개인프로젝트"
-projects: true
+studys: true
 text: true
 date: "01 Mar 2019"
 order: 5

@@ -3,7 +3,7 @@ layout: post
 author: "Choulwoo"
 title:  "portfolio"
 type: "개인프로젝트"
-projects: true
+studys: true
 text: true
 date: "01 Mar 2019"
 order: 4

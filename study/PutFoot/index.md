@@ -3,7 +3,7 @@ layout: post
 title:  "풋살장 예약 및 랜덤매칭 웹프로젝트"
 author: "Choulwoo"
 type: "팀프로젝트"
-projects: true
+studys: true
 text: true
 portfolio: true
 date: "01 Mar 2019"

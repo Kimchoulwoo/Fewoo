@@ -3,7 +3,7 @@ layout: post
 title:  "종합 설계 프로젝트"
 author: "Choulwoo"
 type: "팀프로젝트"
-projects: true
+studys: true
 text: true
 portfolio: true
 date: "01 Mar 2019"

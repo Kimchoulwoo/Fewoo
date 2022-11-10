@@ -5,7 +5,7 @@ title:  "우체국 차세대 종합금융시스템 구축 프로젝트"
 role : "화면 설계 및 개발, 백엔드 개발"
 stack : "JAVA, JSP, Websquare, Nexcore Framework, Oracle"
 date: "2021.11~2022.08(10개월)"
-projects: true
+studys: true
 text: true
 order: 9
 ---

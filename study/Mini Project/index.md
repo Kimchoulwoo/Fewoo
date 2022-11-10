@@ -3,7 +3,7 @@ layout: post
 title:  "JSP 기반 미니 웹프로젝트"
 author: "Choulwoo"
 type: "개인프로젝트"
-projects: true
+studys: true
 text: true
 portfolio: true
 date: "01 Mar 2019"
