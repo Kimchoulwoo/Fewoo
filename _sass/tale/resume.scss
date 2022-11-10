@@ -33,13 +33,14 @@ div.resume-info {
         width: 100%;
         padding: 0;
         border-top: 1px solid rgba(0,0,0,.07);
+        font-family: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
 
         .workplace-name {
-            font-family: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
             font-size: 20px;
             font-weight: 700;
             width: 100%;
             float: left;
+            margin-bottom: 0px;
 
             @media (max-width: 670px) {
                 float: none;
@@ -49,7 +50,6 @@ div.resume-info {
         }
         
         .workplace-title {
-            font-family: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
             font-size: 20px;
             font-weight: 700;
             float: left;
@@ -65,7 +65,7 @@ div.resume-info {
 
         .work-info {
             display: inline-block;
-            p {margin : 0px;}
+            p {margin : 7px;}
 
             p.work-sub-info {
                 color: #8898aa;
@@ -78,7 +78,7 @@ div.resume-info {
         .work-content {
             display : inline-block;
             width : 100%;
-            margin : 5px 0;
+            margin : 7px 0;
 
             p.work-sub-info {
                 color: #8898aa;

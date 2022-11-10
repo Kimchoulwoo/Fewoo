@@ -1,23 +1,23 @@
 first-place:
 - name: 우체국 차세대 종합금융시스템 구축 프로젝트
-  role: ▪ 역할:화면 설계 및 개발, 백엔드 개발
-  use : ▪ 기술:JAVA, JSP, Websquare, Nexcore Framework, Oracle
+  role: "▪ 역할 : 화면 설계 및 개발, 백엔드 개발"
+  use : ▪ JAVA, JSP, Websquare, Nexcore Framework, Oracle
   date: 2021.11~2022.08(10개월)
 
 second-place:
   - name: 서울보증보험 이미지시스템 유지보수
-    role: ▪ 역할:배치프로그램 개발
-    use : ▪ 기술:JAVA, JSP, JavaScript, Oracle
+    role: ▪ 배치프로그램 개발
+    use : ▪ JAVA, JSP, JavaScript, Oracle
     date: 2021.10~2021.11(2개월)
 
 third-place:
 - name: 중앙대학교 전자정보연구센터 프로젝트
-  role: ▪ 역할:프론트 개발, 백엔드 개발
-  use : ▪ 기술:PHP, JAVASCRIPT, MSSQL
+  role: ▪ 프론트 개발, 백엔드 개발
+  use : ▪ PHP, JAVASCRIPT, MSSQL
   date: 2021.07~2021.10(4개월)
 
 fourth-place:
 - name: 서울보증보험 스마트워크시스템 프로젝트
-  role: ▪ 역할:이미지 등록프로그램 개발
-  use : ▪ 기술:C#, JAVA, Oracle
+  role: ▪ 이미지 등록프로그램 개발
+  use : ▪ C#, JAVA, Oracle
   date: 2020.09~2021.07(11개월)
