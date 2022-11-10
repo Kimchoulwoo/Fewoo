@@ -1,9 +1,13 @@
 - name: Java
+- name: C#
+- name: PHP
 - name: JavaScript
 - name: j-Query
+- name: jsp
 - name: Spring Framework
 - name: HTML/CSS
 - name: MySQL
+- name: Oracle
+- name: MsSQL
 - name: GitHub
-- name: Mobile Developer
 - name: Web Developer
