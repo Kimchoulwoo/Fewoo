@@ -6,7 +6,7 @@ type: about
 permalink: /about/
 ---
 
-신입 개발자로 현재 구직중입니다.
+신입 개발자로 현재 구직중입니다!!.
 
 <div class="section">
 	<div class="item" id="1">
