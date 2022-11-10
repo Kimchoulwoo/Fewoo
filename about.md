@@ -5,10 +5,11 @@ permalink: /about/
 ---
 <div class="about">
 하루하루 성장중인 주니어 개발자, 김철우입니다 🏃
+
+<p class = "about-content">▪ 어떤일이든 책임감을 갖고 끝까지 도전해봅니다.</p>
+<p class = "about-content">▪ 어떤 경험에서든 배움을 얻고 실천하려 합니다.</p>
+<p class = "about-content">▪ 새로운 기술 스택에 대한 배움을 두려워하지 않습니다.</p>
 </div>
-▪ 어떤일이든 책임감을 갖고 끝까지 도전해봅니다.<br>
-▪ 어떤 경험에서든 배움을 얻고 실천하려 합니다.<br>
-▪ 새로운 기술 스택에 대한 배움을 두려워하지 않습니다.<br>
 
 <div class="section">
 	<div class="item" id="1">
@@ -84,7 +85,7 @@ permalink: /about/
 					Github
 				</p>
 				<p class="content">
-					<a href="https://github.com/Kimchoulwoo">https://github.com/Kimchoulwoo</a>
+					<a href="https://github.com/Kimchoulwoo" target="_blank">https://github.com/Kimchoulwoo</a>
 				</p>
 			</li>
 		</ul>
