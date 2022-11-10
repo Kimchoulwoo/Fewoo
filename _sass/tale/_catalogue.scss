@@ -30,6 +30,13 @@
 	  justify-content: space-between;
 	  align-items: center;
 	}
+
+  &-divItem:hover {
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.05);
+    transform: translateY(-4px);
+    background-color: #f8f8f8;
+    color: #000; }
+	
   
   &-projectItem {
     color: $default-color;
